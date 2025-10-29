@@ -1,0 +1,1 @@
+Product X is an AI-powered analytics platform that helps teams analyze user behavior. It offers dashboards, cohort analysis, and real-time alerts. The initial launch was in 2021 and the v2 release was in 2023. Core contributors include Alice Johnson (Product Lead) and Bob Lee (Engineering).

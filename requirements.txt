@@ -1,0 +1,6 @@
+flask==2.2.5
+scikit-learn
+nltk
+pdfplumber; platform_system != 'Windows'
+python-docx
+sentence-transformers

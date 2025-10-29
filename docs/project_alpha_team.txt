@@ -1,0 +1,1 @@
+Project Alpha is maintained by the R&D division. Key members: Charlie Kim (Lead), Dana White (Manager). The project started in 2020. Deployment guides are in the 'deployment' document.

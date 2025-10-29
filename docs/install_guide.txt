@@ -1,0 +1,1 @@
+Installation instructions: 1) Clone the repo 2) Create a virtual environment 3) pip install -r requirements.txt 4) python app.py to start the server For database setup, create a sqlite db and run migrations.
